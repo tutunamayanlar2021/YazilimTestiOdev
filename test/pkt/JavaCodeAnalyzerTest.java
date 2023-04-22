@@ -1,3 +1,9 @@
+/** *
+* @author Kader Oral kadriye.oral@ogr.sakarya.edu.tr
+* @since 20.04.2023
+* <p>
+* yazdırma işleminin yapıldığı sınıfın testi 
+* </p> */
 package pkt;
 
 import org.junit.jupiter.api.BeforeEach;

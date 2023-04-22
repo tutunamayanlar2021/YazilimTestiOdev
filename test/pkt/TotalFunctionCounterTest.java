@@ -1,3 +1,9 @@
+/** *
+* @author Kader Oral kadriye.oral@ogr.sakarya.edu.tr
+* @since 20.04.2023
+* <p>
+* toplam fonksiyon sayısını bulan sınıfın testi
+* </p> */
 package pkt;
 
 import static org.junit.jupiter.api.Assertions.*;

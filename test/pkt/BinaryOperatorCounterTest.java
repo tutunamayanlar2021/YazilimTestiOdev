@@ -1,3 +1,11 @@
+
+
+/** *
+* @author Kader Oral kadriye.oral@ogr.sakarya.edu.tr
+* @since 20.04.2023
+* <p>
+* ikili operatör sayısını bulan sınıfın testi
+* </p> */
 package pkt;
 import java.util.ArrayList;
 import java.util.Arrays;

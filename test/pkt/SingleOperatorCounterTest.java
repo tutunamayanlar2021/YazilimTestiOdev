@@ -1,4 +1,10 @@
-package pkt;
+
+/** *
+* @author Kader Oral kadriye.oral@ogr.sakarya.edu.tr
+* @since 20.04.2023
+* <p>
+* tekli operatör sayısını bulan sınıfın testi
+* </p> */package pkt;
 
 import java.util.Arrays;
 import org.junit.jupiter.api.Test;
