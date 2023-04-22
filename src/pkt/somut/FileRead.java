@@ -1,3 +1,11 @@
+
+/** *
+* @author Kader Oral kadriye.oral@ogr.sakarya.edu.tr
+* @since 20.04.2023
+* <p>
+* Dosya okuma sınıfı
+* </p> */
+
 package pkt.somut;
 
 import java.io.BufferedReader;

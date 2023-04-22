@@ -1,3 +1,10 @@
+/** *
+* @author Kader Oral kadriye.oral@ogr.sakarya.edu.tr
+* @since 20.04.2023
+* <p>
+* Toplam fonksiyon sayısını bulan sınıf
+* </p> */
+
 package pkt.somut;
 
 import pkt.soyut.OperatorCounter;

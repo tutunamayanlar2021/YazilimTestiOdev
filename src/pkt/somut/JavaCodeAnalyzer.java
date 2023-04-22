@@ -1,3 +1,9 @@
+/** *
+* @author Kader Oral kadriye.oral@ogr.sakarya.edu.tr
+* @since 20.04.2023
+* <p>
+* Bütün snıflara ait methodları çağırdığımız sınıf
+* </p> */
 
 package pkt.somut;
 

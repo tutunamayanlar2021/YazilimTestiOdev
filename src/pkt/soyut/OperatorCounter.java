@@ -1,3 +1,10 @@
+
+/** *
+* @author Kader Oral kadriye.oral@ogr.sakarya.edu.tr
+* @since 20.04.2023
+* <p>
+* bütün operatör bulan sınıfların kalıtım aldığı soyut sınıf uygulamnın beyni 
+* </p> */
 package pkt.soyut;
 
 import java.util.regex.Matcher;

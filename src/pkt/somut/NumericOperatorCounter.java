@@ -1,3 +1,9 @@
+/** *
+* @author Kader Oral kadriye.oral@ogr.sakarya.edu.tr
+* @since 20.04.2023
+* <p>
+* Sayısal operatör sınıfı
+* </p> */
 
 package pkt.somut;
 
